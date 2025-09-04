@@ -8,4 +8,6 @@ This repository contains my official recommendation letters provided by **Dr. To
 These documents highlight my academic performance and professional potential in **Data Science** and **Machine Learning**.
 
 ---
-© Víctor Suesta – 2025
+## 🔗 Author
+Víctor Suesta  
+[LinkedIn](https://www.linkedin.com/in/víctor-suesta-arribas-7b1250322/)
